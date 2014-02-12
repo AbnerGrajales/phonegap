@@ -1,0 +1,14 @@
+<script src="phonegap.js" type="text/javascript"></script>
+<script>
+	function alertDismisssed(){
+			 
+	}
+	function showAlert() {
+        navigator.notification.alert(
+            'Mensaje de Prueba!',  // message
+            alertDismisssed,         // callback
+            'Alerta',            // title
+            'Aceptar'                  // buttonName
+        );
+    }
+</script>
