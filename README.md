@@ -1,4 +1,4 @@
 phonegap
 ========
 
-Notifications Javascript Phonegap
+Phonegap
